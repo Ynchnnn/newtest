@@ -1,0 +1,123 @@
+{
+ "projectInfo": {
+  "name": "0107",
+  "path": "hcl_0107",
+  "visibility": "2",
+  "introduction": "",
+  "label": []
+ },
+ "deviceInfoList": [
+  {
+   "resourceName": "ISP骨干网",
+   "resourceCategory": "路由器",
+   "resourceModel": "VSR-88",
+   "resourceVersion": "CMW7.1.075-R7953P11",
+   "configPath": "DeviceConfig\\ISP骨干网.cfg"
+  },
+  {
+   "resourceName": "ISP1",
+   "resourceCategory": "路由器",
+   "resourceModel": "VSR-88",
+   "resourceVersion": "CMW7.1.075-R7953P11",
+   "configPath": "DeviceConfig\\ISP1.cfg"
+  },
+  {
+   "resourceName": "ISP2",
+   "resourceCategory": "路由器",
+   "resourceModel": "VSR-88",
+   "resourceVersion": "CMW7.1.075-R7953P11",
+   "configPath": "DeviceConfig\\ISP2.cfg"
+  },
+  {
+   "resourceName": "出口路由器",
+   "resourceCategory": "路由器",
+   "resourceModel": "VSR-88",
+   "resourceVersion": "CMW7.1.075-R7953P11",
+   "configPath": "DeviceConfig\\出口路由器.cfg"
+  },
+  {
+   "resourceName": "核心交换机1",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\核心交换机1.cfg"
+  },
+  {
+   "resourceName": "核心交换机2",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\核心交换机2.cfg"
+  },
+  {
+   "resourceName": "服务器接入交换机2",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\服务器接入交换机2.cfg"
+  },
+  {
+   "resourceName": "服务器接入交换机1",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\服务器接入交换机1.cfg"
+  },
+  {
+   "resourceName": "办公区汇聚交换机1",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\办公区汇聚交换机1.cfg"
+  },
+  {
+   "resourceName": "办公区汇聚交换机2",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\办公区汇聚交换机2.cfg"
+  },
+  {
+   "resourceName": "服务器",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\服务器.cfg"
+  },
+  {
+   "resourceName": "设计部",
+   "resourceCategory": "终端",
+   "resourceModel": "PC",
+   "resourceVersion": "",
+   "configPath": "DeviceConfig\\设计部.cfg"
+  },
+  {
+   "resourceName": "办公区输入交换机",
+   "resourceCategory": "交换机",
+   "resourceModel": "S6850",
+   "resourceVersion": "CMW7.1.070-A7170",
+   "configPath": "DeviceConfig\\办公区输入交换机.cfg"
+  },
+  {
+   "resourceName": "分支出口路由器",
+   "resourceCategory": "路由器",
+   "resourceModel": "VSR-88",
+   "resourceVersion": "CMW7.1.075-R7953P11",
+   "configPath": "DeviceConfig\\分支出口路由器.cfg"
+  },
+  {
+   "resourceName": "销售部",
+   "resourceCategory": "终端",
+   "resourceModel": "PC",
+   "resourceVersion": "",
+   "configPath": "DeviceConfig\\销售部.cfg"
+  },
+  {
+   "resourceName": "财务部",
+   "resourceCategory": "终端",
+   "resourceModel": "PC",
+   "resourceVersion": "",
+   "configPath": "DeviceConfig\\财务部.cfg"
+  }
+ ]
+}
